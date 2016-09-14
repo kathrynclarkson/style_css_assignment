@@ -1,0 +1,32 @@
+.photo {
+	border-color: #0000FF;
+	border-width: 10px; 
+	border-style: solid; 
+	padding-top: 10px; 
+	padding-right: 10px;
+}
+.picture_container {
+	background-color: #000000;
+}
+.bold{
+	font-weight: bold;
+}
+.bold_and_italic {
+	font-weight: bold;
+	font-style: italic;
+}
+.bold_and_italic_and_underlined {
+	font-weight: bold;
+	font-style: italic; 
+	text-decoration: underline;
+}
+.tiled_container div {
+	width: 100%;
+	background: white;
+	height: 10px;
+	border-color: black;
+	border-top: 5px;
+	border-bottom: 5px;
+	border-style: solid;
+}
+
